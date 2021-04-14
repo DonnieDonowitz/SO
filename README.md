@@ -1,1 +1,1 @@
-Lab and exercises from Turin's Politecnico course "Sistemi Operativi" [prof Quer, accademic year 2018-19]
+Lab and exercises from Turin's Politecnico course "Sistemi Operativi" [prof Quer, accademic year 2019-20]
